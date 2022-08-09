@@ -1,4 +1,4 @@
-# NLP: ABSA: Aspect Category Sentiment Classification
+# NLP: ABSA_Aspect Category Sentiment Analysis (ACSA)
 
 ## Project Description
 This project aims to solve the Subtask 4 in SemEval 2014 Task 4 - Aspect Based Sentiment Analysis
