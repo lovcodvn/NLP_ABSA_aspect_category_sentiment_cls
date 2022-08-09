@@ -26,6 +26,6 @@ Given a set of pre-identified aspect categories (e.g., {food, price}), determine
 “The restaurant was expensive, but the menu was great” → {price:negative, food: positive}
 
 # References
-SemEval 2014 Task 4 - Aspect Based Sentiment Analysis: https://www.aclweb.org/portal/content/semeval-2014-task-4-aspect-based-sentiment-analysis
-Solving Aspect Category Sentiment Analysis as a Text Generation Task: https://aclanthology.org/2021.emnlp-main.361/
-Codes: https://github.com/lgw863/acsa-generation
+- SemEval 2014 Task 4 - Aspect Based Sentiment Analysis: https://www.aclweb.org/portal/content/semeval-2014-task-4-aspect-based-sentiment-analysis
+- Solving Aspect Category Sentiment Analysis as a Text Generation Task: https://aclanthology.org/2021.emnlp-main.361/
+- Codes: https://github.com/lgw863/acsa-generation
