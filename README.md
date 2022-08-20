@@ -29,6 +29,7 @@ Step 2 – Sentiment generation
 - Choose the polarity with the highest score.
 - Output sentiment word.
 <img src="images/Step2.png" width = "1000">
+
 ## Data
 The dataset I used in this task is SemEval 2016.
 
