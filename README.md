@@ -17,6 +17,8 @@ The model can be described shortly as below:
 
 Step 1 –Template sentences + Tokenization
 
+<img src="images/Step1.png" width = "1000">
+
 Step 2 – Sentiment generation
 
 2.1 Encoder: Input tokenized original sentences and output hidden states.
@@ -26,7 +28,7 @@ Step 2 – Sentiment generation
 - Calculate the templates’ score with the three polarity words
 - Choose the polarity with the highest score.
 - Output sentiment word.
-
+<img src="images/Step2.png" width = "1000">
 ## Data
 The dataset I used in this task is SemEval 2016.
 
