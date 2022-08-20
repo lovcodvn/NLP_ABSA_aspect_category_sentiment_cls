@@ -13,6 +13,20 @@ Given a set of pre-identified aspect categories (e.g., {food, price}), determine
 ## Methodology 
 For ACSA task, I used BART pre-training model. I took references from the great paper Solving Aspect Category Sentiment Analysis as a Text Generation Task (Liu, 2021).
 
+The model can be described shortly as below: 
+
+Step 1 –Template sentences + Tokenization
+
+Step 2 – Sentiment generation
+
+2.1 Encoder: Input tokenized original sentences and output hidden states.
+
+2.2 Decoder:
+- Input hidden states + tokenized template sentences (without the polarity word)
+- Calculate the templates’ score with the three polarity words
+- Choose the polarity with the highest score.
+- Output sentiment word.
+
 ## Data
 The dataset I used in this task is SemEval 2016.
 
