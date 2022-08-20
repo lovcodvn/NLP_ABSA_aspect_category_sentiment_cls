@@ -23,5 +23,4 @@ My BART seq2seq model achieved 87.4% accuracy on the validation test and 85.5% o
 
 # References
 - SemEval 2014 Task 4 - Aspect Based Sentiment Analysis: https://www.aclweb.org/portal/content/semeval-2014-task-4-aspect-based-sentiment-analysis
-- Solving Aspect Category Sentiment Analysis as a Text Generation Task: https://aclanthology.org/2021.emnlp-main.361/
-- Paper: Jian Liu et.al, 2021, Solving Aspect Category Sentiment Analysis as a Text Generation Task (including codes: https://github.com/lgw863/acsa-generation)
+- Jian Liu et.al, 2021, Solving Aspect Category Sentiment Analysis as a Text Generation Task: https://aclanthology.org/2021.emnlp-main.361/, including Github repository at https://github.com/lgw863/acsa-generation)
