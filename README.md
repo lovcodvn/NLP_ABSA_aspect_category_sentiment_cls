@@ -14,7 +14,7 @@ For ACSA task, I used BART pre-training model. I took references from the great 
 The dataset I used in this task is SemEval 2016
 
 ## Model result:
-My model achieved 87.4% accuracy on the validation test and 85.5% on the test set.
+My BART seq2seq model achieved 87.4% accuracy on the validation test and 85.5% on the test set.
 
 ## Future works:
 - I detected some errors of the labels in the training dataset. I believe the model test accuracy can be improved with data of better annotation. 
